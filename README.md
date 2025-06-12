@@ -1,4 +1,4 @@
-### Hi there, I'm Prachi 👋
+### Hi there, I'm Prachi 👋🏾
 
  I'm a **Machine Learning enthusiast** currently studying at **IIT Roorkee**.  
  I love exploring data, solving problems, and building intelligent systems.
@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </p>
+
+
 ---
 
 ### 📌 Goals
